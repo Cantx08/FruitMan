@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7801ef142518df34dbd3f69bcd5b9d6b, type: 3}
+  m_Name: NinjaFrog
+  m_EditorClassIdentifier: 
+  characterSelected: {fileID: 7992762939204372729, guid: 0d8beba79e20aa0419d82cb186109a07, type: 3}
+  image: {fileID: 4045988073573855817, guid: 76a0696221309e446804fcffa7565290, type: 3}
+  characterName: Ninja Frog

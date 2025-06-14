@@ -1,33 +1,23 @@
-# Gradle files
-.gradle/
-build/
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
 
-# Local configuration file (sdk path, etc)
-local.properties
+# Package cache (incluye .Runtime)
+Library/PackageCache/
 
-# Log/OS Files
-*.log
+# Configuración local del editor
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
-
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+# OS files
+.DS_Store
+Thumbs.db
